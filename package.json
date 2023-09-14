@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Tolik19bat/-npm/issues"
   },
-  "homepage": "https://github.com/Tolik19bat/-npm#readme"
+  "homepage": "https://github.com/Tolik19bat/-npm#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.19",
+    "@babel/preset-env": "^7.22.15"
+  }
 }
